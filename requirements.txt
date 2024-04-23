@@ -1,0 +1,5 @@
+numpy==1.26.3 
+pickle==0.7.5
+pandas==2.2.1
+math
+
